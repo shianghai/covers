@@ -3,7 +3,7 @@ id: 10661996
 
 name: shiangah francis
 
-username: shanghai
+expo username: shanghai
 
 
 password: daywalkker123
